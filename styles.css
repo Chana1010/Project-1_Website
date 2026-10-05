@@ -1,0 +1,254 @@
+*,
+*::before,
+*::after {
+
+  box-sizing: border-box;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+body {
+
+  background-color: #9FC7B5
+    /*#*/
+}
+
+h1,
+.display {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h2,
+.display {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h3,
+.display {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h4,
+.display {
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+p,
+display {
+  font-family: 'Sedgwick Ave', cursive
+}
+
+.header-stripes {
+  width: 100%;
+  height: 80px;
+  background: linear-gradient(to bottom,
+      #9FC7B5 0%,
+      #9FC7B5 30%,
+      #ffffff 30%,
+      #ffffff 60%,
+      #4a7c59 60%,
+      #4a7c59 100%);
+  margin-bottom: 15px;
+
+}
+
+.header-stripes {
+  width: 100%;
+  height: 80px;
+  background: linear-gradient(to bottom,
+      #9FC7B5 0%,
+      #9FC7B5 30%,
+      #ffffff 30%,
+      #ffffff 60%,
+      #4a7c59 60%,
+      #4a7c59 100%);
+  margin-bottom: 15px;
+
+}
+
+.header-stripes {
+  width: 100%;
+  height: 80px;
+  bottom: 20;
+  background: linear-gradient(to bottom,
+      #9FC7B5 0%,
+      #9FC7B5 30%,
+      #ffffff 30%,
+      #ffffff 60%,
+      #4a7c59 60%,
+      #4a7c59 100%);
+  margin-bottom: 15px;
+
+}
+
+
+h1 {
+  position: absolute;
+  top: 10px;
+  font-size: 60px;
+  left: 39%;
+  text-align: center;
+  color: #38201B;
+}
+
+h2 {
+  position: absolute;
+  left: 45%;
+  font-size: 60px;
+  text-align: center;
+  bottom: 0%;
+  color: #38201B;
+}
+
+h4 {
+  left: 45%;
+  text-align: center;
+  font-size: 60px;
+  bottom: 0%;
+  color: #38201B;
+}
+
+.description {
+  /* position: absolute; */
+  /* top: 230px; */
+  font-size: 50px;
+  color: #38201B;
+
+  /* left: 20; */
+  text-align: center;
+}
+
+
+
+.orangebox {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+}
+
+.redbox {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #C85252;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+}
+
+.greenbox {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #168C43;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+
+}
+
+.eventbox1 {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+}
+
+.eventbox2 {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #C85252;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+}
+
+.eventbox3 {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #168C43;
+  color: #38201B;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 29px;
+
+}
+
+.one {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+}
+
+.two {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+}
+
+.tree {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+}
+
+.tornt {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+
+}
+
+.five {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+
+}
+
+.tornt {
+  position: relative;
+  left: 29%;
+  width: 40%;
+  background-color: #DFBFA2;
+  color: #38201B;
+  padding: 15px;
+  font-size: 55px;
+}
